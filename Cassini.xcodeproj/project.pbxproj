@@ -15,7 +15,6 @@
 		3CA4FE4B236B59B100126CFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CA4FE49236B59B100126CFC /* LaunchScreen.storyboard */; };
 		3CA4FE53236B63D200126CFC /* DemoURLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4FE52236B63D200126CFC /* DemoURLs.swift */; };
 		3CA4FE59236B722500126CFC /* oval.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CA4FE58236B722500126CFC /* oval.png */; };
-		3CA4FE5C236B753000126CFC /* oval.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CA4FE5B236B753000126CFC /* oval.jpg */; };
 		3CA4FE5E236B7E9700126CFC /* ImageViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4FE5D236B7E9700126CFC /* ImageViewController2.swift */; };
 		3CA4FE60236B866800126CFC /* ImageViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4FE5F236B866800126CFC /* ImageViewController3.swift */; };
 		3CA4FE62236B996700126CFC /* CassiniViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4FE61236B996700126CFC /* CassiniViewController.swift */; };
@@ -34,7 +33,6 @@
 		3CA4FE52236B63D200126CFC /* DemoURLs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoURLs.swift; sourceTree = "<group>"; };
 		3CA4FE58236B722500126CFC /* oval.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = oval.png; sourceTree = "<group>"; };
 		3CA4FE5A236B72C200126CFC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		3CA4FE5B236B753000126CFC /* oval.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oval.jpg; sourceTree = "<group>"; };
 		3CA4FE5D236B7E9700126CFC /* ImageViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController2.swift; sourceTree = "<group>"; };
 		3CA4FE5F236B866800126CFC /* ImageViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController3.swift; sourceTree = "<group>"; };
 		3CA4FE61236B996700126CFC /* CassiniViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CassiniViewController.swift; sourceTree = "<group>"; };
@@ -77,7 +75,6 @@
 				3CA4FE42236B59AE00126CFC /* ImageViewController1.swift */,
 				3CA4FE52236B63D200126CFC /* DemoURLs.swift */,
 				3CA4FE58236B722500126CFC /* oval.png */,
-				3CA4FE5B236B753000126CFC /* oval.jpg */,
 				3CA4FE44236B59AE00126CFC /* Main.storyboard */,
 				3CA4FE63236B9C8A00126CFC /* ImageViewController4.swift */,
 				3CA4FE61236B996700126CFC /* CassiniViewController.swift */,
@@ -149,7 +146,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CA4FE4B236B59B100126CFC /* LaunchScreen.storyboard in Resources */,
-				3CA4FE5C236B753000126CFC /* oval.jpg in Resources */,
 				3CA4FE59236B722500126CFC /* oval.png in Resources */,
 				3CA4FE48236B59B100126CFC /* Assets.xcassets in Resources */,
 				3CA4FE46236B59AE00126CFC /* Main.storyboard in Resources */,
